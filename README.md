@@ -1,1 +1,1 @@
-# Meal-Plan-API
+# meal-plan-api
